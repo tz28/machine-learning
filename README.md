@@ -19,7 +19,8 @@ personal practice
 		tv.fitToScreen();
 		System.out.println("end");
 ```
-运行效果如图所示:
+运行效果如图所示:<br>
+![](doc/img/id3可视化.png)
 
 <br>
 
