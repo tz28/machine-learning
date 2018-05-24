@@ -20,7 +20,7 @@ personal practice
 		System.out.println("end");
 ```
 运行效果如图所示:<br>
-![](doc/img/id3可视化.png)
+![](doc-img/id3可视化.jpg)
 
 <br>
 
