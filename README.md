@@ -29,4 +29,6 @@ personal practice
 
 <br>
 
+4.博客《scikit-learn之kmeans应用及问题》代码，博客地址：https://blog.csdn.net/u012328159/article/details/86554833
+
 动态更新.................
